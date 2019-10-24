@@ -126,12 +126,12 @@ a, #roboto #bodoni {
 
 /* -------- Hover ------- */
 #roboto:hover {
-    background-image: url("/img/roboto-hover.svg");
+    background-image: url("../img/roboto-hover.svg");
     background-repeat: no-repeat;
 }
 
 #bodoni:hover {
-    background-image: url("/img/bodoni-hover.svg");
+    background-image: url("../img/bodoni-hover.svg");
     background-repeat: no-repeat;
 }
 
