@@ -1,0 +1,473 @@
+html {
+    scroll-behavior: smooth;
+    font-family: 'bodoni-urw', serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* ------------------------------  HEADER  --------------------------- */
+header {
+    height: 100vh;
+    width: 20vw;
+    position: fixed;
+    background-color: #FDDDC8;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px 26px;
+}
+
+
+/* ----------Navigasjon og linker-------- */
+a {
+    text-decoration: none;
+    color: black;
+}
+a .arrow {
+    width: 18px;
+    height: 18px;
+}
+a:hover {
+    color: white;
+    transform: scale(1.2);
+}
+.arrow:hover {
+    fill: rgb(255, 255, 255);
+}
+
+.link {
+    text-decoration: underline;
+    padding: 0;
+}
+.link:hover {
+    color: black;
+}
+
+/* ---------------- home --------------- */
+#home a {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 600;
+    transition: all 0.4s ease;
+}
+
+/* ------------ Next ---------- */
+#next a {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 600;
+    transition: all 0.4s ease;
+}
+
+/* ------------- main-nav ------------ */
+/* Velger img og ul*/
+#main-nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* velger kun ul */
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+/* velger kun .valg til a-tag */
+.valg {
+    display: flex;
+    margin: 0 0 12% 0;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.4s ease;
+}
+
+/* velger kun li og a for hover*/
+li .valg:hover {
+    color: white;
+    transform: scale(1.2);
+}
+
+/* ------------------------------  HEADER END  -------------------------- */
+
+
+
+
+
+/*------------------------------   MAIN   ------------------------------- */
+main {
+    margin-left: 35vw;
+    margin-right: 15vw;
+}
+
+section {
+    height:100vh;
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items:center;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    margin: 25px 0 15px 0;
+}
+
+h2 {
+    margin: 0;
+}
+
+p {
+    margin: 8px 0 25px 0;
+}
+
+p#references {
+    width: 100%;
+    padding: 0 0 30px 0;
+    margin: 0;
+    text-align: left;
+}
+a#references {
+    padding: 0;
+    text-decoration: underline;
+}
+figcaption {
+    text-align: left;
+    width: 100%;
+}
+#figsource {
+    padding: 0;
+}
+#h1-none {
+    margin: 0;
+}
+
+/* ----- Bodoni ----- */
+
+#bodoni-box {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 531px;
+    text-align: justify;
+    margin-bottom: 0;
+}
+
+#avatar2{
+    width: 50%;
+}
+
+
+p  {
+    line-height: 1.3;
+}
+
+/* ----- DESIGN ----- */
+
+
+figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img,#design-img {
+    width: 400px;
+} 
+
+.design-box {
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 531px;
+    text-align: justify;
+    margin-bottom: 0;
+}
+
+/* ----- STYLES ----- */
+#containerstyles {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    font-size: 24px;
+}
+
+#styles {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    font-size: 24px;
+}
+
+.hidden {
+    color: white;
+}
+
+.styles-container1 {
+    text-align: left;
+    padding-right: 16px;
+} 
+.styles-container2 {
+    text-align: left;
+}
+
+.styles-container1 .styles-container2, div {
+    padding-bottom: 5px;
+}
+
+.light {
+    font-weight: 300;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.regular {
+    font-weight: 400;
+}
+
+.medium {
+    font-weight: 500;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.extra {
+    font-weight: 800;
+}
+
+
+/* ----- CHARACTER ----- */
+.character-container2 {
+    text-align: center;
+    letter-spacing: 2.2px;
+}
+
+/* #nav2 {
+    display: none;
+    width: 100vw;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+} */
+/* -----------------------------  MAIN END  -------------------------- */
+
+
+
+/* -----------------------------  @Media  -------------------------- */
+@media (max-width:1047px) {
+header {
+    height: 6vh;
+    width: 100vw;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a, .valg {
+    padding: 0 10%;
+    margin: 0;
+}
+.valg:nth-of-type(4) {
+    padding: 0 0 0 0;
+}
+a.arrow {
+    padding: 0;
+}
+
+#avatar {
+    display: none;
+}
+
+
+
+
+/* Main */
+
+main {
+    width: 50vw;
+    margin: 0 auto 0 auto;
+}
+
+#bodoni {
+    padding-top: 10vh;
+}
+
+#avatar2 {
+    width: 300px;
+    height: 300px;
+}
+
+#styles {
+    font-size: 20px;
+    width: 500px;
+}
+
+}
+
+@media (max-width:800px) {
+    h1 {
+        font-size: 25px;
+    }
+    
+    h2 {
+        font-size: 19px;
+    }
+    
+    p {
+        font-size: 14px;
+    }
+}
+
+
+@media (max-width: 600px) {
+
+#next {
+     display: none;
+ }
+
+header {
+    justify-content: space-between;
+    padding-right: 10px;
+    font-size: 14px;
+}
+
+#home a {
+    font-size: 14px;
+} 
+
+ul {
+    font-size: 14px; 
+}
+
+.valg {
+    padding: 0 10% 0 0;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 19px;
+}
+
+p {
+    font-size: 14px;
+}
+
+main {
+    width: 30%;
+}
+
+#avatar2 {
+    width: 300px;
+    height: 300px; 
+}
+
+#styles {
+    font-size: 16px;
+    width: 450px;
+}
+}
+
+@media (max-width: 460px) {
+    main {
+        width: 70%;
+    }
+    #bodoni {
+        padding-top: 20vh;
+     }
+
+    #styles {
+        font-size: 11px;
+        width: 300px;
+    }
+
+    img,#design-img {
+        width: 300px;
+    } 
+   
+}
+
+@media (max-width: 350px) {
+    #bodoni {
+        padding-top: 25vh;
+     }
+    #avatar2 {
+        width: 200px;
+        height: 200px; 
+    }
+
+    img,#design-img {
+        width: 200px;
+    } 
+
+    h1 {
+        font-size: 18px;
+    }
+
+    h2 {
+        font-size: 14px; 
+    }
+    
+    #styles {
+        font-size: 11px;
+        width: 280px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    #home a {
+        font-size: 12px;
+    } 
+    
+    ul {
+        font-size: 12px; 
+    }
+
+    p.numbers {
+        font-size: 12px;
+    }
+    main {
+        width: 70%;
+    }
+}

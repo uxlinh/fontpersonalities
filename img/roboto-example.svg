@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="914" height="726" viewBox="0 0 914 726">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#529bff"/>
+      <stop offset="1" stop-color="#00bc91"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_14" data-name="Group 14" transform="translate(-503 -305)">
+    <g id="Group_6" data-name="Group 6">
+      <g id="Group_5" data-name="Group 5">
+        <rect id="Rectangle_13" data-name="Rectangle 13" width="914" height="674" transform="translate(503 357)" fill="url(#linear-gradient)"/>
+        <path id="Rectangle_26" data-name="Rectangle 26" d="M10,0H904a10,10,0,0,1,10,10V52a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" transform="translate(503 305)" fill="#f7f7f7"/>
+        <circle id="Ellipse_4" data-name="Ellipse 4" cx="5.5" cy="5.5" r="5.5" transform="translate(514 312)" fill="#ce632a"/>
+        <circle id="Ellipse_5" data-name="Ellipse 5" cx="5.5" cy="5.5" r="5.5" transform="translate(529 312)" fill="#e5a13c"/>
+        <circle id="Ellipse_6" data-name="Ellipse 6" cx="5.5" cy="5.5" r="5.5" transform="translate(544 312)" fill="#61c87c"/>
+      </g>
+    </g>
+    <g id="Group_13" data-name="Group 13">
+      <text id="Name" transform="translate(635 555)" fill="#fff" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="-25.299" y="0">Name</tspan></text>
+      <text id="E-mail_" data-name="E-mail*" transform="translate(640 611)" fill="#fff" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="-30.216" y="0">E-mail*</tspan></text>
+      <text id="Phone" transform="translate(637 667)" fill="#fff" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="-26.918" y="0">Phone</tspan></text>
+      <text id="Message_title" data-name="Message title" transform="translate(666 723)" fill="#fff" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="-56.856" y="0">Message title</tspan></text>
+      <text id="Message" transform="translate(610 755)" fill="#fff" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="0" y="18">Message</tspan></text>
+      <g id="Group_12" data-name="Group 12" transform="translate(765.928 529)">
+        <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(0.072 168)" fill="#fff" stroke="#ddd" stroke-width="1">
+          <rect width="396" height="39" stroke="none"/>
+          <rect x="0.5" y="0.5" width="395" height="38" fill="none"/>
+        </g>
+        <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(0.072 224)" fill="#fff" stroke="#ddd" stroke-width="1">
+          <rect width="396" height="101" stroke="none"/>
+          <rect x="0.5" y="0.5" width="395" height="100" fill="none"/>
+        </g>
+        <g id="Group_7" data-name="Group 7">
+          <g id="Rectangle_18" data-name="Rectangle 18" transform="translate(0.072)" fill="#fff" stroke="#ddd" stroke-width="1">
+            <rect width="191" height="39" stroke="none"/>
+            <rect x="0.5" y="0.5" width="190" height="38" fill="none"/>
+          </g>
+          <text id="First_name" data-name="First name" transform="translate(59.072 26)" fill="#cecece" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="-44.893" y="0">First name</tspan></text>
+        </g>
+        <g id="Group_10" data-name="Group 10" transform="translate(0 112.091)">
+          <g id="Rectangle_21" data-name="Rectangle 21" transform="translate(0.072 -0.091)" fill="#fff" stroke="#ddd" stroke-width="1">
+            <rect width="396" height="39" stroke="none"/>
+            <rect x="0.5" y="0.5" width="395" height="38" fill="none"/>
+          </g>
+          <text id="Phone_number" data-name="Phone number" transform="translate(15.072 8.909)" fill="#cecece" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="0" y="18">Phone number</tspan></text>
+        </g>
+        <g id="Group_11" data-name="Group 11" transform="translate(0 342.31)">
+          <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(0.072 -0.31)" fill="none" stroke="#fff" stroke-width="3">
+            <rect width="171" height="48" rx="9" stroke="none"/>
+            <rect x="1.5" y="1.5" width="168" height="45" rx="7.5" fill="none"/>
+          </g>
+          <text id="Send_form" data-name="Send form" transform="translate(82.072 29.69)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.1em"><tspan x="-57.012" y="0">SEND FORM</tspan></text>
+        </g>
+        <g id="Group_9" data-name="Group 9" transform="translate(0 56.046)">
+          <g id="Rectangle_20" data-name="Rectangle 20" transform="translate(0.072 -0.046)" fill="#fff" stroke="#ddd" stroke-width="1">
+            <rect width="396" height="39" stroke="none"/>
+            <rect x="0.5" y="0.5" width="395" height="38" fill="none"/>
+          </g>
+          <text id="E.g._lisa_mail.com" data-name="E.g. lisa@mail.com" transform="translate(15.072 8.954)" fill="#cecece" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="0" y="18">E.g. lisa@mail.com</tspan></text>
+        </g>
+        <g id="Group_8" data-name="Group 8" transform="translate(204.351)">
+          <g id="Rectangle_19" data-name="Rectangle 19" transform="translate(-0.279)" fill="#fff" stroke="#ddd" stroke-width="1">
+            <rect width="192" height="39" stroke="none"/>
+            <rect x="0.5" y="0.5" width="191" height="38" fill="none"/>
+          </g>
+          <text id="Last_name" data-name="Last name" transform="translate(59.721 26)" fill="#cecece" font-size="19" font-family="Roboto-Regular, Roboto"><tspan x="-44.401" y="0">Last name</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text id="Contact_form" data-name="Contact form" transform="translate(609 474)" fill="#fff" font-size="40" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Contact form</tspan></text>
+    <line id="Line_5" data-name="Line 5" x2="550" transform="translate(612.5 495.5)" fill="none" stroke="#fff" stroke-width="2"/>
+    <g id="Polygon_1" data-name="Polygon 1" transform="matrix(0.921, 0.391, -0.391, 0.921, 1269.858, 956.63)" fill="none">
+      <path d="M26,0,52,45H0Z" stroke="none"/>
+      <path d="M 26 1.9989013671875 L 1.732700347900391 44 L 50.26730346679688 44 L 26 1.9989013671875 M 26 0 L 52 45 L 0 45 L 26 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Polygon_2" data-name="Polygon 2" transform="matrix(0.53, -0.848, 0.848, 0.53, 1300.141, 958.626)" fill="none">
+      <path d="M26,0,52,45H0Z" stroke="none"/>
+      <path d="M 26 1.9989013671875 L 1.732700347900391 44 L 50.26730346679688 44 L 26 1.9989013671875 M 26 0 L 52 45 L 0 45 L 26 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Polygon_3" data-name="Polygon 3" transform="matrix(0.53, -0.848, 0.848, 0.53, 1234.141, 879.626)" fill="none">
+      <path d="M26,0,52,45H0Z" stroke="none"/>
+      <path d="M 26 1.9989013671875 L 1.732700347900391 44 L 50.26730346679688 44 L 26 1.9989013671875 M 26 0 L 52 45 L 0 45 L 26 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Polygon_4" data-name="Polygon 4" transform="translate(1353.5 906.5) rotate(-90)" fill="#fff">
+      <path d="M 25.12378120422363 21.5 L 0.8762181997299194 21.5 L 13 0.9828307628631592 L 25.12378120422363 21.5 Z" stroke="none"/>
+      <path d="M 13 1.965688705444336 L 1.752452850341797 21 L 24.2475471496582 21 L 13 1.965688705444336 M 13 0 L 26 22 L 0 22 L 13 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <path id="Polygon_11" data-name="Polygon 11" d="M13,0,26,22H0Z" transform="translate(1393.767 808.308) rotate(-121)" fill="rgba(255,255,255,0.42)"/>
+    <path id="Polygon_12" data-name="Polygon 12" d="M13,0,26,22H0Z" transform="translate(1149.801 1019.373) rotate(-138)" fill="rgba(255,255,255,0.42)"/>
+    <g id="Polygon_5" data-name="Polygon 5" transform="matrix(0.819, -0.574, 0.574, 0.819, 1325.542, 822.945)" fill="none">
+      <path d="M13,0,26,22H0Z" stroke="none"/>
+      <path d="M 13 1.965688705444336 L 1.752452850341797 21 L 24.2475471496582 21 L 13 1.965688705444336 M 13 0 L 26 22 L 0 22 L 13 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Polygon_10" data-name="Polygon 10" transform="matrix(0.946, 0.326, -0.326, 0.946, 1371.789, 989.867)" fill="#fff">
+      <path d="M13,0,26,22H0Z" stroke="none"/>
+      <path d="M 13 1.965688705444336 L 1.752452850341797 21 L 24.2475471496582 21 L 13 1.965688705444336 M 13 0 L 26 22 L 0 22 L 13 0 Z" stroke="none" fill="rgba(255,255,255,0.55)"/>
+    </g>
+    <path id="Polygon_7" data-name="Polygon 7" d="M19,0,38,32H0Z" transform="matrix(0.951, 0.309, -0.309, 0.951, 1244.213, 782.802)" fill="rgba(255,255,255,0.45)"/>
+    <g id="Polygon_8" data-name="Polygon 8" transform="translate(1164.629 948.954) rotate(-64)" fill="none">
+      <path d="M19,0,38,32H0Z" stroke="none"/>
+      <path d="M 19 1.958707809448242 L 1.756732940673828 31 L 36.24326705932617 31 L 19 1.958707809448242 M 19 0 L 38 32 L 0 32 L 19 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Polygon_9" data-name="Polygon 9" transform="translate(1235.59 936.012) rotate(-45)" fill="#fff">
+      <path d="M 16.11149024963379 13.5 L 0.8885089159011841 13.5 L 8.5 0.9634264707565308 L 16.11149024963379 13.5 Z" stroke="none"/>
+      <path d="M 8.5 1.92686939239502 L 1.77702808380127 13 L 15.22297191619873 13 L 8.5 1.92686939239502 M 8.5 0 L 17 14 L 0 14 L 8.5 0 Z" stroke="none" fill="#fff"/>
+    </g>
+  </g>
+</svg>
