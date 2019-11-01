@@ -54,7 +54,7 @@ header {
 /*--- Container 2 ---*/
 .header-container2{
     margin: 0;
-    padding-bottom: 38px;
+    padding-bottom: 3vh;
     text-align: center;
 }
 
@@ -65,8 +65,8 @@ header {
 
 #arrow-down {
     fill: black;
-    width: 30px;
-    height: 30px;
+    width: 4vh;
+    height: 4vh;
     animation-name: arrow;
     animation-duration: 3s;
     animation-iteration-count: infinite;
@@ -184,10 +184,7 @@ footer {
         margin: auto;
     }
 
-    #box2-img {
-        width: 280px;
-        height: 280px;
-    }
+    
 
     #box1-text {
         display: flex;
@@ -209,8 +206,8 @@ footer {
     }
     
     img {
-        height: 280px;
-        width: 280px;
+        height: 40vw;
+        width: 40vw;
     }
     #main-container{
         display: flex;
