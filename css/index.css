@@ -8,7 +8,7 @@ html{
 
 /*---------------------------- HEADER --------------------------*/
 header {  
-    height: 100vh;
+    min-height: 100vh;
     width: 100vw;
     background-color:#FFF5E2;
     color: black;
@@ -33,6 +33,8 @@ header {
 
 #box2-img {
     flex: 1;
+    height: 30vw;
+    width: 30vw;
 }
 
 #box1-text p {
@@ -90,7 +92,7 @@ header {
 main {
     margin: 0;
     padding: 0;
-    height: 100vh;
+    min-height: 100vh;
     width: 100vw;
     display: flex;
     justify-content: center;
@@ -99,8 +101,8 @@ main {
 }
 
 img {
-    width: 500px;
-    height: 500px;
+    width: 30vw;
+    height: 30vw;
 }
 
 a, #roboto #bodoni {
